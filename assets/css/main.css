@@ -48,6 +48,11 @@ button:hover {
     border: 2px solid #FF8C00;
 }
 
+a{
+  color: white;
+  text-decoration:none;
+}
+
 footer {
     position: absolute;
     background-color: #3E3F40;
